@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696632442 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\tadlistacircular\main.c
+	"listaCircular.h"
+
+1696632461 c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\tadlistacircular\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+
+1696633019 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\tadlistacircular\listacirculas.c
+	"ListaCircular.h"
+
