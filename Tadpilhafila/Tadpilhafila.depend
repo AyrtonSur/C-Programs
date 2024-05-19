@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1697761727 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\tadpilhafila\fila.c
+	"Fila.h"
+
+1697740714 c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\tadpilhafila\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1697761896 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\tadpilhafila\main.c
+	"Fila.h"
+	"Pilha.h"
+	<locale.h>
+
+1697739315 c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\tadpilhafila\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1697752656 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\tadpilhafila\pilha.c
+	"Pilha.h"
+
