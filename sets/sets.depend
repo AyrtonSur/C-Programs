@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700511281 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\sets\main.c
+	"sets.h"
+
+1700510570 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\sets\sets.c
+	"sets.h"
+
+1700507587 c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\sets\sets.h
+	<stdio.h>
+	<stdlib.h>
+
