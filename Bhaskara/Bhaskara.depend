@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1694386181 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\bhaskara\main.c
+	"MatLib.h"
+
+1694386181 c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\bhaskara\matlib.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1694386181 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\bhaskara\matlib.c
+	"MatLib.h"
+
