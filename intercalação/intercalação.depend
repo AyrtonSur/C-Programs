@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695325089 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\intercalação\main.c
+	"intercala.h"
+
+1695325426 c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\intercalação\intercala.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1695323878 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\intercalação\intercalayrtonsurica.c
+	"intercala.h"
+
+1695325487 source:c:\users\ayrton_lucas.000\desktop\projetos em c\testeparac\intercalação\mergesort.c
+	"intercala.h"
+
